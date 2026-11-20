@@ -1,9 +1,9 @@
 # Participantes:
 
-- Harold Andres Galvis
-- Nicolas Antonio Arboleda
-- Diego Alejandro Arango
-- Emmanuel Gómez Madrid
+- Harold Andres Galvis | Rol: Lider de grupo
+- Nicolas Antonio Arboleda | Rol: Desarollador del Diagrama de clases
+- Diego Alejandro Arango | Rol: Tester
+- Emmanuel Gómez Madrid | Rol: Administrador del repositorio y el readme
 
 # Resolución a las preguntas:
 

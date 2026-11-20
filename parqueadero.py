@@ -1,8 +1,3 @@
-# Integrantes:
-# 1. Nombre: Harold Andres Galvis Rivas | Rol: Lider de grupo
-# 2. Nombre: Emmanuel Gómez Madrid | Rol: Administrador del repositorio en GitHud
-# 3. Nombre: NIcolas Antonia Arboleda Soto | Rol: Desarollador del Diagrama de clases
-# 4. Nombre: Diego | Rol: Tester
 
 from abc import ABC, abstractmethod
 from datetime import datetime
