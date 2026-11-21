@@ -2,7 +2,7 @@
 
 - Harold Andres Galvis | Rol: Lider de grupo
 - Nicolas Antonio Arboleda | Rol: Desarollador del Diagrama de clases
-- Diego Alejandro Arango | Rol: Tester
+- Diego Alejandro Arango | Rol: Tester y comentador del proyecto
 - Emmanuel Gómez Madrid | Rol: Administrador del repositorio y el readme
 
 # Resolución a las preguntas:
